@@ -18,8 +18,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <link rel="shorcut icon" href="/img/favicon.ico"></link>
-        <link rel="apple-touch-icon" href="/img/favicon.ico" />
+        <link rel="shorcut icon" href="favicon.ico"></link>
+        <link rel="apple-touch-icon" href="favicon.ico" />
 
         <meta name="description" content="RD-Makeover" />
 
